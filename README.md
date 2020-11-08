@@ -1,7 +1,7 @@
 Most parts of the projects are done excepte the Docker part, 
 the files of it are ready but still i need to fix some configiration
 
-**Genereal informationn about how to run the project: 
+**General informationn about how to run the project: 
 
 Download or clone the project from git.
 Start mysql.
